@@ -1,0 +1,7 @@
+# Scientific-Articles/_config.yml
+
+# Configuración de Markdown (¡Clave para el renderizado!)
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
