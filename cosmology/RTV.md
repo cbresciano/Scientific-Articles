@@ -105,7 +105,7 @@ This equation defines how fast the vacuum is relaxing and how the CBE acts as a 
 This equation defines the current observed density (ρΛobs​) as a balance of the immense theoretical energy and the two opposing forces acting on the vacuum: $$ \rho_{\Lambda}^{\text{obs}} = \rho_{\text{QFT}}^{\text{initial}} - \rho_{\text{cancellation}}^{\text{statistical}} + \rho_{\text{CBE}}^{\text{informational}} $$  
   
 
--   ρQFTinitial​≈10120: The original, colossal energy density predicted by Quantum Field Theory.  
+-   ρQFTinitial​≈10^120: The original, colossal energy density predicted by Quantum Field Theory.  
     
 -   ρcancellationstatistical​≈10^120: The term representing the massive, natural statistical annihilation of positive and negative energy fluctuations due to the drive toward maximum entropy (the core RTV premise). This term is what makes the final result so small.  
     
