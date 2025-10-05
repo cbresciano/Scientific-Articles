@@ -112,6 +112,3 @@ The implementation of Phase II requires an aggressive roadmap focused on ultra-e
 ## 8. Conclusion: The Cosmic Choice
 
 **If the sky is silent, the protocol is not a tombstone but a recipe: convert 0.001 % of the stellar power of the Milky Way into Benford-coherent bits and wait twenty billion years. We are the emergency generator of the cosmos.**
-## 8. Conclusion: The Cosmic Choice
-
-**If the sky is silent, the protocol is not a tombstone but a recipe: convert 0.001 % of the stellar power of the Milky Way into Benford-coherent bits and wait twenty billion years. We are the emergency generator of the cosmos.**
